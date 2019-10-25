@@ -5,4 +5,7 @@
 
 
 without components
+
+
+
 ![board with solderpads only](./GSV3000power_supply FINAL IMAGE.jpg)
